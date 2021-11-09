@@ -1,5 +1,5 @@
-%faster than 57.05% (not reliable)
-%Time: O(n*m) where n is the length of the input string array, m is the length of the longest word of input array.
+#faster than 57.05% (not reliable)
+#Time: O(n*m) where n is the length of the input string array, m is the length of the longest word of input array.
 
 
 class Solution(object):
